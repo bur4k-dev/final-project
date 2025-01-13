@@ -3,6 +3,9 @@
 Oyun 12 obje ile başlar ve her level için 30 saniye süre sınırı vardır her levelda obje sayısı iki artar ve eğer süre dolarsa oyun biter
 ve toplam skorunu görürsün R tuşu ile de ilk levela geri dönülür
 
+Game Link = https://burrkaa.itch.io/final-project
+
+
 Oyun içi ekran görüntüleri
 
 ![gameplay1](https://github.com/user-attachments/assets/1a1fd710-50ee-4c34-8327-3b03790fb4c9)
